@@ -8,6 +8,7 @@ Reconstruct the plots found in this repo:
 ### Includes
 - **plot1-4.png**: Exploratory plots, solutions to the given task
 - **plot1-4.R**: R scripts 1-4 that create the plots 1-4, respectively
+- **Codebook.md**: Information about the underlying dataset
 
 ### Dataset
 The plots (plot1-4.png) are generated from the following data set:
